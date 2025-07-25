@@ -1,1 +1,2 @@
 # netflix
+This project is a custom-built, responsive Netflix-inspired landing page designed using HTML, CSS, and SVG assets. It mimics the real Netflix homepage layout, complete with a header, background video sections, multi-language select dropdown, FAQ accordion section, and a fully styled call-to-action form for collecting email addresses. The design is sleek and visually rich, featuring multiple media blocks, animated elements like video loops, and layered background gradients.
